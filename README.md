@@ -7,7 +7,7 @@ This data is licensed under a [Creative Commons Attribution 4.0 International Li
 
 This repository contains 366 JSON files, one for every day of 2016, with data to represent every second of the year.
 
-See [mikedotalmond.co.uk/projects/31622401-seconds](http://mikedotalmond.co.uk/projects/31622401-seconds) for more information on the project.
+See [mikedotalmond.dev/projects/31622401-seconds](http://mikedotalmond.dev/projects/31622401-seconds) for more information on the project.
 
 
 ### Data format
